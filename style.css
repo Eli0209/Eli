@@ -8,7 +8,7 @@ font-family: 'Roboto', sans-serif;
 }
 main{
     justify-content: center;
-    background-image: url(https://github.com/Eli0209/Eli/blob/4995e038c69a9e62e83163a63865461bce4baee4/img/eli%20(1).jpg);
+    background-image: url(img);
     height: 100vh;
     width: 100%;
     display: flex;
