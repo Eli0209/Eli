@@ -19,7 +19,7 @@ main{
 }
 .card{
     height: 100vh;
-    width: 100%;
+    width: 200%;
     opacity: .8;
     background-color: rgba(0, 0, 0, .3);
     backdrop-filter: blur(20px);
